@@ -15,7 +15,7 @@ Here used `o200k_base` encoding for `tiktoken` tokenizer which is used by OpenAI
 ```bash
 x86_64-w64-mingw32-g++ -static-libgcc -static-libstdc++ -o main64.exe cpp.cpp
 ```
-# Example
+# Examples
 ### [Linux Kernel](https://github.com/torvalds/linux) number of tokens as of Jan. 2025
 
 ```
@@ -26,3 +26,18 @@ Number of lines in `prompt.txt`: `40 227 546`
 
 `prompt.txt` file size: `1.42 GB`
 
+---
+
+### [VS Code](https://github.com/microsoft/vscode)
+
+```
+Number of tokens: 31 062 093
+```
+
+---
+
+### [Moodle](https://git.in.moodle.com/moodle/moodle)
+
+```
+Number of tokens: 73 021 682
+```
