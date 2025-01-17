@@ -15,3 +15,6 @@ x86_64-w64-mingw32-g++ -static-libgcc -static-libstdc++ -o main64.exe cpp.cpp
 ```
 Number of tokens: 456 479 607
 ```
+
+Number of lines in `prompt.txt`: `40 227 546`
+
