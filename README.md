@@ -17,4 +17,5 @@ Number of tokens: 456 479 607
 ```
 
 Number of lines in `prompt.txt`: `40 227 546`
+`prompt.txt` file size: `1.4 GB`
 
