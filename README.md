@@ -1,5 +1,5 @@
 # 🪙 Token counter and 📌prompt creator
-### Overwiew
+### Overview
 This repository is *extremely poorly* made piece of software. Create one text file prompts from codebases and then count tokens in it. For local repositories. Use `main64.exe ‹directory_name›` (C++ source of executable is `cpp.cpp`) for creating `prompt.txt` file. Then use `main.py` (requires OpenAI’s package `tiktoken`) to count tokens. 
 
 ### Goal
